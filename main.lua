@@ -1,6 +1,6 @@
 debugX = true
 
-local MFK = loadstring(game:HttpGet('https://sirius.menu/MFK'))()
+local MFK = loadstring(game:HttpGet('https://raw.githubusercontent.com/KuroTakeshi/MFK-UI/refs/heads/main/source.lua'))()
 
 local Window = MFK:CreateWindow({
    Name = "MFK Example Window",
